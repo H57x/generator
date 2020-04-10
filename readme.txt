@@ -1,5 +1,5 @@
 ==========[]welcome[]=================
-1] open main.py using comand 'python3 main.py'
+1] open main.py using comand './run.sh'
 2]select how many times u need 
 3]select how much start or end point after it will be generated
 
