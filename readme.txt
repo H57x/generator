@@ -4,3 +4,5 @@
 3]select how much start or end point after it will be generated
 
 Th4NkS f0R UsInG!
+
+This is for educational purpose !
