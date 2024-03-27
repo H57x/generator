@@ -6,3 +6,5 @@
 Th4NkS f0R UsInG!
 
 This is for educational purpose !
+
+this is Randome code generator
